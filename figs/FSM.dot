@@ -1,0 +1,28 @@
+digraph finite_state_machine {
+    rankdir=LR;
+    size="10,9"
+
+    node [shape = doublecircle]; CODE SLASH BACK_SLASH NOTE_MULTILINE NOTE_MULTILINE_STAR NOTE_SINGLE_LINE CODE_CHAR CODE_STRING ESCAPE_CHAR ESCAPE_STRING;
+    
+    CODE  -> SLASH [ label = "遇到/" ];
+    SLASH -> CODE [ label = "遇到非/以及非*字符" ];
+    SLASH -> NOTE_SINGLE_LINE [ label = "遇到/" ];
+    NOTE_SINGLE_LINE -> NOTE_SINGLE_LINE [ label = "非\\非\\n" ];
+    NOTE_SINGLE_LINE -> CODE [ label = "遇到\\n" ];
+    NOTE_SINGLE_LINE -> BACK_SLASH [ label = "遇到\\" ];
+    BACK_SLASH -> NOTE_SINGLE_LINE [ label = "非\\" ];
+    SLASH -> NOTE_MULTILINE [ label = "遇到*" ];
+    NOTE_MULTILINE -> NOTE_MULTILINE [ label = "非*" ];
+    NOTE_MULTILINE -> NOTE_MULTILINE_STAR [ label = "遇到*" ];
+    NOTE_MULTILINE_STAR -> NOTE_MULTILINE [ label = "非/非*" ];
+    NOTE_MULTILINE_STAR -> NOTE_MULTILINE_STAR [ label = "遇到*" ];
+    NOTE_MULTILINE_STAR -> CODE [ label = "遇到/"];
+    CODE -> CODE_CHAR [ label = "遇到'" ];
+    CODE_CHAR -> CODE_CHAR [ label = "非\\非'" ];
+    CODE_CHAR -> ESCAPE_CHAR [ label = "遇到\\" ];
+    ESCAPE_CHAR -> CODE_CHAR [ label = "任意字符" ];
+    CODE -> CODE_STRING [ label = "遇到了\"" ];
+    CODE_STRING -> CODE [ label = "遇到了\"" ];
+    CODE_STRING -> ESCAPE_STRING [ label = "遇到了\\" ];
+    ESCAPE_STRING -> CODE_STRING [ label = "遇到任意字符" ];
+}

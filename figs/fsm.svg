@@ -1,0 +1,224 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="712pt" height="648pt" viewBox="0.00 0.00 712.38 648.00">
+<g id="graph0" class="graph" transform="translate(2.8219569719433935,642.6086906063613) scale(0.6568000316619875)" data-name="finite_state_machine">
+
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-982.5446 1080.5524,-982.5446 1080.5524,4 -4,4" style=""></polygon>
+<!-- CODE -->
+<g id="node1" class="node" data-name="CODE">
+
+<ellipse fill="none" stroke="#000000" cx="41.3188" cy="-524.7446" rx="37.1559" ry="37.1559" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="41.3188" cy="-524.7446" rx="41.1385" ry="41.1385" style=""></ellipse>
+<text text-anchor="middle" x="41.3188" y="-520.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">CODE</text>
+</g>
+<!-- SLASH -->
+<g id="node2" class="node" data-name="SLASH">
+
+<ellipse fill="none" stroke="#000000" cx="327.1821" cy="-406.7446" rx="41.7206" ry="41.7206" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="327.1821" cy="-406.7446" rx="45.7307" ry="45.7307" style=""></ellipse>
+<text text-anchor="middle" x="327.1821" y="-402.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">SLASH</text>
+</g>
+<!-- CODE&#45;&gt;SLASH -->
+<g id="edge1" class="edge" data-name="CODE->SLASH">
+
+<path fill="none" stroke="#000000" d="M57.0221,-486.1175C66.7366,-467.2553 81.1233,-446.0654 100.6377,-433.9446 152.1597,-401.9435 223.0885,-398.4915 271.7808,-400.8861" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="271.6301,-404.3832 281.8187,-401.4776 272.042,-397.3953 271.6301,-404.3832" style=""></polygon>
+<text text-anchor="middle" x="164.4035" y="-438.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到/</text>
+</g>
+<!-- CODE_CHAR -->
+<g id="node7" class="node" data-name="CODE_CHAR">
+
+<ellipse fill="none" stroke="#000000" cx="327.1821" cy="-755.7446" rx="68.9425" ry="68.9425" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="327.1821" cy="-755.7446" rx="72.9409" ry="72.9409" style=""></ellipse>
+<text text-anchor="middle" x="327.1821" y="-751.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">CODE_CHAR</text>
+</g>
+<!-- CODE&#45;&gt;CODE_CHAR -->
+<g id="edge14" class="edge" data-name="CODE->CODE_CHAR">
+
+<path fill="none" stroke="#000000" d="M70.9658,-553.8233C80.2858,-562.6662 90.7326,-572.2794 100.6377,-580.7446 152.6734,-625.2162 214.292,-672.49 260.12,-706.6783" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="258.087,-709.5281 268.1985,-712.6915 262.2666,-703.9129 258.087,-709.5281" style=""></polygon>
+<text text-anchor="middle" x="164.4035" y="-685.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到'</text>
+</g>
+<!-- CODE_STRING -->
+<g id="node8" class="node" data-name="CODE_STRING">
+
+<ellipse fill="none" stroke="#000000" cx="327.1821" cy="-564.7446" rx="77.0249" ry="77.0249" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="327.1821" cy="-564.7446" rx="81.0255" ry="81.0255" style=""></ellipse>
+<text text-anchor="middle" x="327.1821" y="-560.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">CODE_STRING</text>
+</g>
+<!-- CODE&#45;&gt;CODE_STRING -->
+<g id="edge18" class="edge" data-name="CODE->CODE_STRING">
+
+<path fill="none" stroke="#000000" d="M80.6088,-537.8532C87.2384,-539.7222 94.0926,-541.4471 100.6377,-542.7446 144.772,-551.4942 194.4624,-556.8127 236.0359,-560.0214" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="235.9142,-563.522 246.1461,-560.7728 236.4331,-556.5412 235.9142,-563.522" style=""></polygon>
+<text text-anchor="middle" x="164.4035" y="-563.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到了"</text>
+</g>
+<!-- SLASH&#45;&gt;CODE -->
+<g id="edge2" class="edge" data-name="SLASH->CODE">
+
+<path fill="none" stroke="#000000" d="M285.5993,-426.1615C268.0222,-434.1235 247.2412,-443.2176 228.1693,-450.7446 172.3695,-472.767 155.9004,-471.6071 100.6377,-494.9446 96.225,-496.8081 91.6816,-498.852 87.1662,-500.9686" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="85.4842,-497.8937 77.9879,-505.3808 88.5171,-504.2026 85.4842,-497.8937" style=""></polygon>
+<text text-anchor="middle" x="164.4035" y="-499.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到非/以及非*字符</text>
+</g>
+<!-- NOTE_MULTILINE -->
+<g id="node4" class="node" data-name="NOTE_MULTILINE">
+
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-363.7446" rx="94.3149" ry="94.3149" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-363.7446" rx="98.3214" ry="98.3214" style=""></ellipse>
+<text text-anchor="middle" x="633.3673" y="-359.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">NOTE_MULTILINE</text>
+</g>
+<!-- SLASH&#45;&gt;NOTE_MULTILINE -->
+<g id="edge8" class="edge" data-name="SLASH->NOTE_MULTILINE">
+
+<path fill="none" stroke="#000000" d="M372.3607,-400.3999C412.6802,-394.7375 473.3181,-386.2216 526.0013,-378.8229" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="526.6648,-382.2642 536.0808,-377.4074 525.6912,-375.3322 526.6648,-382.2642" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-397.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到*</text>
+</g>
+<!-- NOTE_SINGLE_LINE -->
+<g id="node6" class="node" data-name="NOTE_SINGLE_LINE">
+
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-106.7446" rx="102.9807" ry="102.9807" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-106.7446" rx="106.9899" ry="106.9899" style=""></ellipse>
+<text text-anchor="middle" x="633.3673" y="-102.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">NOTE_SINGLE_LINE</text>
+</g>
+<!-- SLASH&#45;&gt;NOTE_SINGLE_LINE -->
+<g id="edge3" class="edge" data-name="SLASH->NOTE_SINGLE_LINE">
+
+<path fill="none" stroke="#000000" d="M368.9168,-387.4437C419.3556,-363.7989 498.7425,-325.4388 508.6226,-313.7446 525.7679,-293.4514 514.7765,-280.5238 526.6226,-256.7446 536.3247,-237.2692 548.4149,-217.5448 560.9372,-199.081" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="563.9252,-200.9129 566.714,-190.6917 558.1599,-196.9429 563.9252,-200.9129" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-363.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到/</text>
+</g>
+<!-- BACK_SLASH -->
+<g id="node3" class="node" data-name="BACK_SLASH">
+
+<ellipse fill="none" stroke="#000000" cx="948.8841" cy="-106.7446" rx="73.0464" ry="73.0464" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="948.8841" cy="-106.7446" rx="77.0344" ry="77.0344" style=""></ellipse>
+<text text-anchor="middle" x="948.8841" y="-102.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">BACK_SLASH</text>
+</g>
+<!-- BACK_SLASH&#45;&gt;NOTE_SINGLE_LINE -->
+<g id="edge7" class="edge" data-name="BACK_SLASH->NOTE_SINGLE_LINE">
+
+<path fill="none" stroke="#000000" d="M871.5864,-106.7446C835.1258,-106.7446 790.8352,-106.7446 750.3818,-106.7446" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="750.1869,-103.2447 740.1868,-106.7446 750.1868,-110.2447 750.1869,-103.2447" style=""></polygon>
+<text text-anchor="middle" x="780.6638" y="-110.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">非\</text>
+</g>
+<!-- NOTE_MULTILINE&#45;&gt;NOTE_MULTILINE -->
+<g id="edge9" class="edge" data-name="NOTE_MULTILINE->NOTE_MULTILINE">
+
+<path fill="none" stroke="#000000" d="M609.227,-458.9959C613.3439,-471.5675 621.3907,-479.9052 633.3673,-479.9052 641.9754,-479.9052 648.5534,-475.598 653.1013,-468.5072" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="656.4798,-469.5407 657.5075,-458.9959 650.1282,-466.5983 656.4798,-469.5407" style=""></polygon>
+<text text-anchor="middle" x="633.3673" y="-484.1052" font-family="Times,serif" font-size="14.00" fill="#000000" style="">非*</text>
+</g>
+<!-- NOTE_MULTILINE_STAR -->
+<g id="node5" class="node" data-name="NOTE_MULTILINE_STAR">
+
+<ellipse fill="none" stroke="#000000" cx="948.8841" cy="-403.7446" rx="123.8316" ry="123.8316" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="948.8841" cy="-403.7446" rx="127.8369" ry="127.8369" style=""></ellipse>
+<text text-anchor="middle" x="948.8841" y="-399.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">NOTE_MULTILINE_STAR</text>
+</g>
+<!-- NOTE_MULTILINE&#45;&gt;NOTE_MULTILINE_STAR -->
+<g id="edge10" class="edge" data-name="NOTE_MULTILINE->NOTE_MULTILINE_STAR">
+
+<path fill="none" stroke="#000000" d="M730.7121,-378.0642C739.9684,-379.3435 749.2152,-380.59 758.1119,-381.7446 775.4774,-383.9984 793.7476,-386.2534 811.8204,-388.4143" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="811.4902,-391.8996 821.8334,-389.6045 812.3165,-384.9485 811.4902,-391.8996" style=""></polygon>
+<text text-anchor="middle" x="780.6638" y="-391.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到*</text>
+</g>
+<!-- NOTE_MULTILINE_STAR&#45;&gt;CODE -->
+<g id="edge13" class="edge" data-name="NOTE_MULTILINE_STAR->CODE">
+
+<path fill="none" stroke="#000000" d="M933.0123,-530.59C911.1474,-645.6871 859.7665,-809.0458 740.1119,-887.7446 556.6016,-1008.4425 443.1356,-968.9469 246.1693,-871.7446 129.4567,-814.1474 74.1922,-657.0019 52.7036,-575.4169" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="56.0035,-574.1946 50.1296,-565.3772 49.2228,-575.9331 56.0035,-574.1946" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-965.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到/</text>
+</g>
+<!-- NOTE_MULTILINE_STAR&#45;&gt;NOTE_MULTILINE -->
+<g id="edge11" class="edge" data-name="NOTE_MULTILINE_STAR->NOTE_MULTILINE">
+
+<path fill="none" stroke="#000000" d="M827.0483,-365.203C819.0357,-363.5206 811.0427,-362.0707 803.2157,-360.9446 783.3739,-358.09 778.1568,-360.7197 758.1119,-360.9446 752.898,-361.0032 747.5617,-361.0754 742.1722,-361.1583" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="741.7012,-357.6655 731.7604,-361.3301 741.8168,-364.6646 741.7012,-357.6655" style=""></polygon>
+<text text-anchor="middle" x="780.6638" y="-365.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">非/非*</text>
+</g>
+<!-- NOTE_MULTILINE_STAR&#45;&gt;NOTE_MULTILINE_STAR -->
+<g id="edge12" class="edge" data-name="NOTE_MULTILINE_STAR->NOTE_MULTILINE_STAR">
+
+<path fill="none" stroke="#000000" d="M923.0947,-528.8451C928.229,-541.4079 936.8255,-549.413 948.8841,-549.413 957.7396,-549.413 964.728,-545.0958 969.8492,-537.8267" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="973.0249,-539.3109 974.6734,-528.8451 966.8581,-535.9986 973.0249,-539.3109" style=""></polygon>
+<text text-anchor="middle" x="948.8841" y="-553.613" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到*</text>
+</g>
+<!-- NOTE_SINGLE_LINE&#45;&gt;CODE -->
+<g id="edge5" class="edge" data-name="NOTE_SINGLE_LINE->CODE">
+
+<path fill="none" stroke="#000000" d="M531.803,-140.1219C414.5231,-183.1781 222.1869,-268.2874 100.6377,-397.7446 80.1071,-419.611 65.5955,-449.8609 56.0661,-475.3529" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="52.737,-474.2682 52.6557,-484.8627 59.3261,-476.6312 52.737,-474.2682" style=""></polygon>
+<text text-anchor="middle" x="327.1821" y="-280.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到\n</text>
+</g>
+<!-- NOTE_SINGLE_LINE&#45;&gt;BACK_SLASH -->
+<g id="edge6" class="edge" data-name="NOTE_SINGLE_LINE->BACK_SLASH">
+
+<path fill="none" stroke="#000000" d="M739.0707,-89.6968C745.5027,-89.0066 751.8874,-88.4111 758.1119,-87.9446 792.2484,-85.3868 829.7512,-87.9194 862.4043,-91.8649" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="862.0119,-95.3431 872.3732,-93.1306 862.8937,-88.3988 862.0119,-95.3431" style=""></polygon>
+<text text-anchor="middle" x="780.6638" y="-92.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到\</text>
+</g>
+<!-- NOTE_SINGLE_LINE&#45;&gt;NOTE_SINGLE_LINE -->
+<g id="edge4" class="edge" data-name="NOTE_SINGLE_LINE->NOTE_SINGLE_LINE">
+
+<path fill="none" stroke="#000000" d="M609.8419,-210.932C614.1192,-223.3679 621.961,-231.4893 633.3673,-231.4893 641.5655,-231.4893 647.9223,-227.2938 652.4378,-220.3162" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="655.7659,-221.4668 656.8926,-210.932 649.4423,-218.4648 655.7659,-221.4668" style=""></polygon>
+<text text-anchor="middle" x="633.3673" y="-235.6893" font-family="Times,serif" font-size="14.00" fill="#000000" style="">非\非\n</text>
+</g>
+<!-- CODE_CHAR&#45;&gt;CODE_CHAR -->
+<g id="edge15" class="edge" data-name="CODE_CHAR->CODE_CHAR">
+
+<path fill="none" stroke="#000000" d="M302.1882,-824.3754C305.1789,-837.4611 313.5102,-846.7151 327.1821,-846.7151 337.2223,-846.7151 344.3824,-841.7244 348.6623,-833.8904" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="351.9951,-834.9687 352.1759,-824.3754 345.4285,-832.5437 351.9951,-834.9687" style=""></polygon>
+<text text-anchor="middle" x="327.1821" y="-850.9151" font-family="Times,serif" font-size="14.00" fill="#000000" style="">非\非'</text>
+</g>
+<!-- ESCAPE_CHAR -->
+<g id="node9" class="node" data-name="ESCAPE_CHAR">
+
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-795.7446" rx="78.7639" ry="78.7639" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-795.7446" rx="82.7705" ry="82.7705" style=""></ellipse>
+<text text-anchor="middle" x="633.3673" y="-791.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">ESCAPE_CHAR</text>
+</g>
+<!-- CODE_CHAR&#45;&gt;ESCAPE_CHAR -->
+<g id="edge16" class="edge" data-name="CODE_CHAR->ESCAPE_CHAR">
+
+<path fill="none" stroke="#000000" d="M400.411,-751.3456C433.6253,-750.6 473.2928,-751.4575 508.6226,-756.9446 520.7363,-758.8261 533.2957,-761.6427 545.5725,-764.9156" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="544.7718,-768.3257 555.3437,-767.6292 546.645,-761.5809 544.7718,-768.3257" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-760.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到\</text>
+</g>
+<!-- CODE_STRING&#45;&gt;CODE -->
+<g id="edge19" class="edge" data-name="CODE_STRING->CODE">
+
+<path fill="none" stroke="#000000" d="M254.1905,-529.3084C245.5802,-526.2989 236.7885,-523.7278 228.1693,-521.9446 183.0122,-512.6024 130.3989,-514.4974 92.5297,-518.0312" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="91.858,-514.581 82.2581,-519.0634 92.558,-521.5459 91.858,-514.581" style=""></polygon>
+<text text-anchor="middle" x="164.4035" y="-526.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到了"</text>
+</g>
+<!-- ESCAPE_STRING -->
+<g id="node10" class="node" data-name="ESCAPE_STRING">
+
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-604.7446" rx="86.8474" ry="86.8474" style=""></ellipse>
+<ellipse fill="none" stroke="#000000" cx="633.3673" cy="-604.7446" rx="90.8552" ry="90.8552" style=""></ellipse>
+<text text-anchor="middle" x="633.3673" y="-600.5446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">ESCAPE_STRING</text>
+</g>
+<!-- CODE_STRING&#45;&gt;ESCAPE_STRING -->
+<g id="edge20" class="edge" data-name="CODE_STRING->ESCAPE_STRING">
+
+<path fill="none" stroke="#000000" d="M408.4286,-560.2C439.8889,-559.7651 476.0943,-560.8926 508.6226,-565.9446 518.2036,-567.4327 528.0634,-569.5058 537.8417,-571.927" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="537.0208,-575.3298 547.5795,-574.4554 538.7801,-568.5545 537.0208,-575.3298" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-569.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到了\</text>
+</g>
+<!-- ESCAPE_CHAR&#45;&gt;CODE_CHAR -->
+<g id="edge17" class="edge" data-name="ESCAPE_CHAR->CODE_CHAR">
+
+<path fill="none" stroke="#000000" d="M551.0258,-788.4134C512.955,-784.6618 467.1875,-779.6391 426.1948,-773.7446 420.6825,-772.952 415.0078,-772.0777 409.2968,-771.1544" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="409.4428,-767.6308 399.0047,-769.4464 408.2967,-774.5364 409.4428,-767.6308" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-786.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">任意字符</text>
+</g>
+<!-- ESCAPE_STRING&#45;&gt;CODE_STRING -->
+<g id="edge21" class="edge" data-name="ESCAPE_STRING->CODE_STRING">
+
+<path fill="none" stroke="#000000" d="M542.9374,-596.6085C506.5829,-592.9556 464.3233,-588.2272 426.1948,-582.7446 423.1374,-582.305 420.03,-581.8402 416.8941,-581.3559" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="417.2349,-577.8662 406.8088,-579.7494 416.1337,-584.779 417.2349,-577.8662" style=""></polygon>
+<text text-anchor="middle" x="467.4087" y="-595.9446" font-family="Times,serif" font-size="14.00" fill="#000000" style="">遇到任意字符</text>
+</g>
+</g>
+</svg>
