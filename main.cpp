@@ -2,7 +2,7 @@
  * @Description: 利用状态机删除代码中所有注释
                  目前仅支持 Linux/Unix 系统下的 C++ 文件
  * @LastEditors: zzh
- * @LastEditTime: 2021-07-13 22:34:25
+ * @LastEditTime: 2021-07-13 22:41:56
  * @FilePath: /AnnotationKiller/main.cpp
  * @history:      -- 2021/07/12, v1.0 实现了基本功能
  *                -- 2021/07/13, v1.1 添加了显示文件读取进度功能
@@ -100,14 +100,14 @@ class Timer {
 /**
  * @brief: 删除文件中的注释
  */
-class AnnotionKiller {
+class AnnotationKiller {
  public:
   /**
    * @brief: core function 删除文件注释
    * @param {string&} 待处理字符串
    * @return {string} 处理之后字符串
    */
-  string delete_annotion(string &str) {
+  string delete_annotation(string &str) {
     state_t state = CODE;
     string ret{""};
     for (auto &c : str) {
@@ -280,10 +280,10 @@ class AnnotionKiller {
     }
     cout << "[OK] all data have been read to memory" << endl;
 
-    cout << "2. delete annotion ..." << endl;
+    cout << "2. delete annotation ..." << endl;
     string s_lines;
-    strip_lines = delete_annotion(lines);
-    cout << "[OK] annotion have been deleted ..." << endl;
+    strip_lines = delete_annotation(lines);
+    cout << "[OK] annotation have been deleted ..." << endl;
     cout << "3. Now write to file ..." << endl;
     os << strip_lines;
     cout << "[OK] file have been writed";
@@ -320,12 +320,12 @@ void helper(int argc, char const *argv[]) {
   };
 
   help_str notice[] = {
-      {"<source file name>", " cpp file, annotion to be deleted"},
+      {"<source file name>", " cpp file, annotation to be deleted"},
       {"[destination file name]", " you can specific by yourself"}};
 
   cout << "==============================================================="
        << endl;
-  cout << argv[0] << " delete annotions from source file and output a new file."
+  cout << argv[0] << " delete annotations from source file and output a new file."
        << endl;
   for (int i = 0; i < sizeof(notice) / sizeof(notice[0]); ++i) {
     cout << "- " << notice[i].item << notice[i].notice << endl;
@@ -355,10 +355,10 @@ int main(int argc, char const *argv[]) {
     cout << "[OK] ouput file name: " << des_file << endl;
   }
 
-  AnnotionKiller ak;
+  AnnotationKiller ak;
   if (!ak.read_del_write(orig_file,
                          static_cast<const char *>(des_file.c_str()))) {
-    cout << "[Error] failed to delete annotion ..." << endl;
+    cout << "[Error] failed to delete annotation ..." << endl;
   }
   return 0;
 }
